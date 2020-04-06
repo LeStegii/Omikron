@@ -1,0 +1,15 @@
+logs/
+crash-reports/
+saves/
+resourcepacks/
+screenshots/
+mods/
+
+.curseclient
+.ReAuth.cfg
+servers.dat
+options.txt
+servers.dat
+usercache.json
+usernamecache.json
+minecraftinstance.json
