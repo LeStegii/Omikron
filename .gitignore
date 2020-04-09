@@ -13,3 +13,4 @@ servers.dat
 usercache.json
 usernamecache.json
 minecraftinstance.json
+config/jei/worldSettings.cfg
